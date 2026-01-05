@@ -5,6 +5,7 @@ hugoblox:
     type: person
     tagline: PhD candidate in Computational Neuroscience
     description: PhD candidate, computational neuroscience, synaptic plasticity, fast learning, modelization, mean-field model
+    organization: Inria, Claude-Bernard University
   theme:
     mode: system
     pack: contrast

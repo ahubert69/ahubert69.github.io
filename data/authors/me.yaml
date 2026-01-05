@@ -36,7 +36,7 @@ links:
     url: "https://scholar.google.com/citations?user=example"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-1825-0097"
-  - icon: "hero/globe"
+  - icon: "custom/brands_gitlab"
     url: "https://gitlab.inria.fr/ahubert"
     label: "GitLab"
 interests:
@@ -64,7 +64,7 @@ experience:
   - role: "Research internship"
     org: "Inrae Rennes"
     start: "2022-04-01"
-    end: "2022-09-31"
+    end: "2022-09-30"
     summary: ""
 skills:
   - name: "Technical Skills"
