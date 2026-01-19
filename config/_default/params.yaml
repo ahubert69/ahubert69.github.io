@@ -4,7 +4,7 @@ hugoblox:
     name: Arnaud Hubert
     type: person
     tagline: PhD candidate in Computational Neuroscience
-    description: PhD candidate, computational neuroscience, synaptic plasticity, fast learning, modelization, mean-field model
+    description: PhD candidate Arnaud Hubert, interests in computational neuroscience, synaptic plasticity, fast learning, modelization, mean-field model in academic research
     organization: Inria, Claude-Bernard University
   theme:
     mode: system
@@ -38,6 +38,6 @@ hugoblox:
     toc:
       enable: true
     reading_time:
-      enable: true
+      enable: false
   search:
     enable: true
