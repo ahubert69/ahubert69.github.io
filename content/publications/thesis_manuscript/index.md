@@ -34,6 +34,11 @@ featured: true
 #hugoblox:
 #  ids:
 #    doi: 10.1101/2024.07.10.602953 
+links:
+  - name: PDF
+    url: /uploads/Manuscrit_These_Arnaud_Hubert.pdf
+    #icon: scroll-pdf
+    icon_pack: fas
 
 slides: ""
 #draft: true
