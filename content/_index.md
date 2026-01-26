@@ -9,7 +9,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/AH_CV_25.pdf
+      show_education: false
       headings:
         about: 'About Me'
         education: 'Education'
@@ -36,6 +37,18 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
+  - block: resume-experience
+    id: education
+    content:
+      title: Education
+      username: me
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+
   - block: collection
     id: papers
     content:
@@ -95,6 +108,13 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+  - block: resume-skills
+    id: skills
+    content:
+      title: Skills & Hobbies
+      username: me
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

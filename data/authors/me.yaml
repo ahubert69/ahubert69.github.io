@@ -38,7 +38,7 @@ links:
     url: "https://orcid.org/0000-0002-1825-0097"
   - icon: "custom/brands_gitlab"
     url: "https://gitlab.inria.fr/ahubert"
-    label: "GitLab"
+    #label: "GitLab"
 interests:
   - "Computational Neuroscience"
   - "Fast Learning"
@@ -71,7 +71,17 @@ skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
-        level: 5
+        level: 4
+  - name: "Hobbies"
+    items:
+      - label: "Blender"
+        level: 1.5
+      - label: "Ableton"
+        level: 1.5
+  - name: "Language"
+    items:
+      - label: "Français - Native"
+      - label: "English - B2"
 #  - name: "Research & Communication"
 #    items:
 #      - label: "Academic Writing"
@@ -82,10 +92,10 @@ skills:
 #        level: 4
 languages:
   - name: "French"
-    level: null
+    level: 100
     label: "Native"
   - name: "English"
-    level: null
+    level: 3
     label: "B2"
 #awards: []
 #weight: null
