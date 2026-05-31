@@ -13,8 +13,8 @@ postnominals:
   - "Inria"
 status:
   icon: ""
-role: "PhD candidate"
-bio: "PhD candidate in the AistroSight team-project at the French National Institute for Research in Digital Science and Technology.
+role: "PhD"
+bio: "PhD in the AistroSight team-project at the French National Institute for Research in Digital Science and Technology.
 
   My research focuses on synaptic plasticity, especially in the cortico-striatal projection diring the context of fast learning.
 
@@ -26,7 +26,7 @@ affiliations:
     url: "https://team.inria.fr/aistrosight/"
 links:
   - icon: "at-symbol"
-    url: "mailto:arnaud.hubert@inria.fr"
+    url: "mailto:arnaud.hubert.research@proton.me"
     label: "E-mail Me"
   - icon: "brands/github"
     url: "https://github.com/ahubert69"
@@ -48,7 +48,7 @@ education:
   - degree: "PhD in Computational Neuroscience"
     institution: "Inria Lyon, France"
     start: "2022-11-01"
-    end: ""
+    end: "2026-31-03"
     summary: ""
   - degree: "Master's degree in Mathematics and its applications"
     institution: "Claude Bernard Lyon 1 University, France"
