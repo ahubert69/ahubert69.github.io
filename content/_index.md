@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/AH_CV_25.pdf
+        url: uploads/cv_AH_postdoc.pdf
       #show_education: false
       #show_interests: false
       headings:

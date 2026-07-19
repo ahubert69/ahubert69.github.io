@@ -36,7 +36,7 @@ featured: true
 #    doi: 10.1101/2024.07.10.602953 
 links:
   - name: PDF
-    url: /uploads/Manuscrit_These_Arnaud_Hubert.pdf
+    url: /uploads/Manuscript_PhD_Arnaud_Hubert.pdf
     #icon: scroll-pdf
     icon_pack: fas
 
